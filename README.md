@@ -7,3 +7,9 @@ ________________________________________________
 2). let the bot make high iq comments
 
 3). profit???
+
+________________________________________________
+
+Used Python 3 and PRAW Reddit API
+
+Kobe Braga & Roy Feng
