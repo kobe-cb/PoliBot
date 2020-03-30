@@ -1,5 +1,5 @@
-PoliBot
-LaHacks2020
+PoliBot - LaHacks2020
+https://devpost.com/software/polibot
 ________________________________________________
 
 1). create reddit bot using praw
